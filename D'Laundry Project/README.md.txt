@@ -1,0 +1,1 @@
+The purpose of 'daslaundry.txt' is only for decoration in the program
